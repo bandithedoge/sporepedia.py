@@ -16,8 +16,6 @@ Currently only supports downloading adventures and their assets from a Sporecast
 
 ## TODO
 
-[ ] CLI interface
-
-[ ] Support more asset types
-
-[ ] Asynchronous downloads
+- [ ] CLI interface
+- [ ] Support more asset types
+- [ ] Asynchronous downloads
