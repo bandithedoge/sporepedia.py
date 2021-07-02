@@ -7,7 +7,7 @@ Currently only supports downloading adventures and their assets from a Sporecast
 1. Clone the repo
     ```
     git clone https://github.com/bandithedoge/sporepedia.py
-    cd
+    cd sporepedia.py
     ```
     
 2. Open `sporepedia.py` and change the `id` variable to the ID of your Sporecast (12-digit number at the end of the link)
